@@ -12,3 +12,4 @@ def display_rainbow(colors)
   print "#{colors[6][0]}".upcase + ": #{colors[6]}"
   binding.pry
 end
+display_rainbow
