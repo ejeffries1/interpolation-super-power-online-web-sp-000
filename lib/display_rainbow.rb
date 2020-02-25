@@ -11,4 +11,3 @@ def display_rainbow(colors)
   print "#{colors[5][0]}".upcase + ": #{colors[5]}, "
   print "#{colors[6][0]}".upcase + ": #{colors[6]}"
 end
-display_rainbow
